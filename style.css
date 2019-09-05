@@ -1,0 +1,60 @@
+.card { color: #eeeeee;
+        text-align: center
+
+}
+body {
+    background-image: url("dust_scratches.png");
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 40px;
+    color: #777;
+}
+.maincontainer {
+                border-style: solid;
+                 }
+
+img{margin-bottom: 30px;
+    margin-top: 30px
+    
+}
+#card2{
+    color: #4aaaa5;
+    -ms-layout-grid-line: 10px;
+    background: #eeeeee
+
+    
+}
+.w3-container{ 
+    text-align: center;
+    background: #eeeeee;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #ddd;
+   
+}
+#aboutme{
+    text-align: left;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 3px;
+    border-block-color: #eeeeee
+
+    
+    
+
+}
+.form-group{text-align-last: left}
+
+#w3{ height: 600px;
+margin-top: 20px
+}
+h2{text-align: left;
+padding-top: 20px;
+color: #4aaaa5}
+
