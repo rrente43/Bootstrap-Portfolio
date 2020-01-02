@@ -1,0 +1,21 @@
+body{
+    background: black;
+}
+
+.jumbotron{
+
+    background-image: url("images/coding.png");
+    background-size: cover;
+    color: white;
+    align-content: center;
+    max-height: 500px;
+
+}
+.card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    
+
+}
