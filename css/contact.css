@@ -1,0 +1,58 @@
+.card { color: #eeeeee;
+    text-align: center
+    
+
+}
+body {
+background-color: black;
+text-align: center;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+font-size: 18px;
+line-height: 40px;
+color: #777;
+}
+.maincontainer {
+            border-style: solid;
+             }
+
+img{margin-bottom: 30px;
+margin-top: 30px;
+    border-radius: 50%;
+ 
+
+}
+#card2{
+color: #6996c3;
+-ms-layout-grid-line: 10px;
+background: #eeeeee
+
+
+}
+.w3-container{ 
+text-align: center;
+background: #eeeeee;
+margin-left: 300px;
+margin-right: 300px;
+padding-left: 30px;
+padding-right: 30px;
+border: 1px solid #ddd;
+
+
+}
+
+.form-group{text-align-last: left}
+
+#w3{ height: 600px;
+margin-top: 20px
+}
+h2{text-align: left;
+padding-top: 20px
+;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+color:#6996c3}
+
+h1{
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}

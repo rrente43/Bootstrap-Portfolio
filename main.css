@@ -1,21 +1,56 @@
 body{
     background: black;
 }
-
+/* 
 .jumbotron{
 
     background-image: url("images/coding.png");
     background-size: cover;
+    align-content: center;
+    max-height: 450px;
+
+} */
+.jumbotron {
+    background-image: url(coding.png);
+    background-size: cover;
     color: white;
     align-content: center;
-    max-height: 500px;
-
+    max-height: 450px;
 }
-.card{
+.card-img-top{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 10%;
+    height: 350px;
+    width: auto;
+    margin-bottom: 20px;
     
 
 }
+.container{
+    margin-top: 150px;
+    color: white;
+    line-height: 2rem;
+    font-size: 17px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+
+}
+html {
+    scroll-behavior: smooth;
+  }
+h1{
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+  
+  #section1 {
+    height: 600px;
+    background-color: pink;
+  }
+  
+  #section2 {
+    height: 600px;
+    background-color: black;
+  }
+
